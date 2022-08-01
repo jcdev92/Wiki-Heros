@@ -1,3 +1,5 @@
+'use strict';
+
 const heroe = document.querySelector("#heroe");
 
 let link = "https://akabab.github.io/superhero-api/api/all.json";
